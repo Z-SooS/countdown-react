@@ -4,7 +4,7 @@ import TitleComponent from './screen-elements/TitleComponent';
 function LandingPage({startGameFunc}) {
     return ( <section id='landing-page'>
         <h1 id='title'>
-            <TitleComponent/>sadasd
+            <TitleComponent/>
         </h1>
         <div id='game-explanation'>
             <h4>"Countdown" is a popular British television game show that combines word and number puzzles.</h4>
